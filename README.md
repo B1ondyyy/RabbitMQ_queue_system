@@ -34,7 +34,7 @@
 
    ```bash
    git clone https://github.com/B1ondyyy/RabbitMQ_queue_system.git
-   cd utmn_otrpo_lab7
+   cd RabbitMQ_queue_system
    ```
    
 2. Создание и Активация Виртуального Окружения (Опционально, но Рекомендуется)
