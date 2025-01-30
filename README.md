@@ -33,7 +33,7 @@
 1. **Клонирование Репозитория**
 
    ```bash
-   git clone https://github.com/B1ondyyy/utmn_otrpo_lab7.git
+   git clone https://github.com/B1ondyyy/RabbitMQ_queue_system.git
    cd utmn_otrpo_lab7
    ```
    
